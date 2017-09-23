@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MeuAptChallenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="base_url">https://api.dribbble.com/v1/</string>
+    <string name="client_id">17a947cb6c9d794a43d59982c92e7d15d9ae1b13add9ec544a66205a39f1e498</string>
+    <string name="client_access_token">85d6bd189804628e7c98650bb34cbe9a71fbf40f613bcbda0fad6af1df1ae9ae</string>
+    <string name="no_shots_available">No shots available</string>
+    <string name="connection_error">Connection Error</string>
+
+    <string name="created_at">Created at:</string>
+    <string name="views">Views:</string>
+    <string name="comments">Comments:</string>
+
+
+
+</resources>
